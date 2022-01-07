@@ -1,0 +1,115 @@
+﻿-------------------------------------
+Beginning Export of all Source
+neuBTPlan.accdb
+VCS Version 3.4.19
+Using Fast Save
+07.01.2022 19:40:03
+-------------------------------------
+-------------------------------------
+Exporting project...          
+  neuBTPlan.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  BTPlan
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[3]
+-------------------------------------
+No modified vbe forms found in this database.
+-------------------------------------
+No modified proj properties found in this database.
+-------------------------------------
+No modified saved specs found in this database.
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[52]
+-------------------------------------
+No modified shared images found in this database.
+-------------------------------------
+Exporting themes...           
+  Office
+[1]
+-------------------------------------
+No modified imex specs found in this database.
+-------------------------------------
+No modified tables found in this database.
+-------------------------------------
+No modified queries found in this database.
+-------------------------------------
+No modified forms found in this database.
+-------------------------------------
+No modified macros found in this database.
+-------------------------------------
+No modified reports found in this database.
+-------------------------------------
+No modified table data found in this database.
+-------------------------------------
+No modified modules found in this database.
+-------------------------------------
+No modified table data macros found in this database.
+-------------------------------------
+Exporting relations...        
+  tblBewohnertblBewohnerVeranstaltung
+  tblOrttblVeranstaltung
+  tblPersonaltblPersonalVeranstaltung
+  tblTagesplantblVeranstaltungTagesplan
+  tblVeranstaltungtblBewohnerVeranstaltung
+  tblVeranstaltungtblPersonalVeranstaltung
+  tblVeranstaltungtblVeranstaltungTagesplan
+[7]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[2]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+No modified hidden attributes found in this database.
+-------------------------------------
+Done. (2,95 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Object Type                   Count     Seconds
+--------------------------------------------------
+Project                       1         0,01
+VB Project                    1         0,01
+VBE References                3         0,03
+DB Properties                 52        0,28
+Themes                        1         0,01
+Relations                     7         0,11
+Doc Properties                2         0,02
+Nav Pane Groups               1         0,02
+--------------------------------------------------
+TOTALS:                       68        0,49
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Read File                     14        0,00
+Parse JSON                    14        0,03
+Convert to JSON               582       0,42
+Compute SHA256                16        0,00
+Console Updates               3         2,24
+Compare Dictionary            12        0,00
+Get Modified Date             3         0,00
+Get File Property Hash        3         0,00
+Verify Path                   2         0,00
+Create Folder                 1         0,00
+Export Theme                  1         0,00
+Clear Orphaned                5         0,09
+Get VBA Hash                  18        0,02
+Write File                    1         0,00
+--------------------------------------------------
+Other Operations                        0,19
+--------------------------------------------------
+
+

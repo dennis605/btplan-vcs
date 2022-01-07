@@ -1,0 +1,242 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "07.01.2022 19:40:05",
+    "FullExportDate": "07.01.2022 19:38:54",
+    "OptionsHash": "d1c64e6",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "&new.bas": {
+          "ExportDate": "07.01.2022 19:38:52",
+          "SourceModified": "07.01.2022 19:38:52",
+          "FilePropertiesHash": "239b16c"
+        },
+        "Bewohner anlegen.bas": {
+          "ExportDate": "07.01.2022 19:38:47",
+          "SourceModified": "07.01.2022 19:38:47",
+          "FilePropertiesHash": "8abe401"
+        },
+        "Bewohner löschen.bas": {
+          "Hash": "32d3a99",
+          "ExportDate": "07.01.2022 19:38:50",
+          "SourceModified": "07.01.2022 19:38:50",
+          "FilePropertiesHash": "33e7be0"
+        },
+        "frm_qry_alles.bas": {
+          "Hash": "f0773cb",
+          "ExportDate": "07.01.2022 19:38:51",
+          "SourceModified": "07.01.2022 19:38:51",
+          "FilePropertiesHash": "3cf7cb5"
+        },
+        "frm_test_Tagesplan.bas": {
+          "Hash": "a7d73ef",
+          "ExportDate": "07.01.2022 19:38:52",
+          "SourceModified": "07.01.2022 19:38:52",
+          "FilePropertiesHash": "492d73f"
+        },
+        "frmBewohner.bas": {
+          "Hash": "8a94313",
+          "ExportDate": "07.01.2022 19:38:48",
+          "SourceModified": "07.01.2022 19:38:48",
+          "FilePropertiesHash": "a26a876"
+        },
+        "frmlVeranstaltung.bas": {
+          "ExportDate": "07.01.2022 19:38:53",
+          "SourceModified": "07.01.2022 19:38:53",
+          "FilePropertiesHash": "db669e8"
+        },
+        "frmOrt.bas": {
+          "ExportDate": "07.01.2022 19:38:53",
+          "SourceModified": "07.01.2022 19:38:53",
+          "FilePropertiesHash": "bbdeee2"
+        },
+        "frmPersonal.bas": {
+          "Hash": "8ed5081",
+          "ExportDate": "07.01.2022 19:38:53",
+          "SourceModified": "07.01.2022 19:38:53",
+          "FilePropertiesHash": "2377e1e"
+        },
+        "frmsqlToVba.bas": {
+          "Hash": "a096473",
+          "ExportDate": "07.01.2022 19:38:52",
+          "SourceModified": "07.01.2022 19:38:52",
+          "FilePropertiesHash": "e4f5822"
+        },
+        "frmTagesplan.bas": {
+          "Hash": "e25ce5c",
+          "ExportDate": "07.01.2022 19:38:50",
+          "SourceModified": "07.01.2022 19:38:50",
+          "FilePropertiesHash": "8d9e354"
+        },
+        "frmVeranstaltungPersonal.bas": {
+          "ExportDate": "07.01.2022 19:38:49",
+          "SourceModified": "07.01.2022 19:38:49",
+          "FilePropertiesHash": "7448e48"
+        },
+        "frmVeranstaltungZuordnen.bas": {
+          "Hash": "1705660",
+          "ExportDate": "07.01.2022 19:38:49",
+          "SourceModified": "07.01.2022 19:38:49",
+          "FilePropertiesHash": "3a7ffc3"
+        },
+        "Personal anlegen.bas": {
+          "ExportDate": "07.01.2022 19:38:48",
+          "SourceModified": "07.01.2022 19:38:48",
+          "FilePropertiesHash": "bd719dc"
+        },
+        "Veranstaltung erstellen.bas": {
+          "Hash": "8799882",
+          "ExportDate": "07.01.2022 19:38:50",
+          "SourceModified": "07.01.2022 19:38:50",
+          "FilePropertiesHash": "6871bb4"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "Hash": "19c3478",
+          "ExportDate": "07.01.2022 19:40:03",
+          "SourceModified": "07.01.2022 19:38:43",
+          "FilePropertiesHash": "7e10447"
+        }
+      },
+      "Queries": {
+        "qry_alles.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "30fe9db"
+        },
+        "qry_Veranstaltung_Ort.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "9975d5c"
+        },
+        "qryBewohner_aktiv.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "3ab8773"
+        },
+        "qryBewohner_alle.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "6ba0141"
+        },
+        "qryBewohnerVeranstaltung.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "51c4ab1"
+        },
+        "qryPersonal_aktiv.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "fa9bba7"
+        },
+        "qryPersonal_alle.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "047565c"
+        },
+        "qryPersonalVeranstaltung.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "54caab6"
+        },
+        "qryVeranstaltung_aktiv.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "0078e2a"
+        },
+        "qryVeranstaltung_alle.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "2f7efd8"
+        },
+        "qryVeranstaltungen.bas": {
+          "ExportDate": "07.01.2022 19:38:46",
+          "SourceModified": "07.01.2022 19:38:46",
+          "FilePropertiesHash": "150ca4d"
+        }
+      },
+      "Reports": {
+        "rptBewohner.bas": {
+          "ExportDate": "07.01.2022 19:38:54",
+          "SourceModified": "07.01.2022 19:38:54",
+          "FilePropertiesHash": "3d8ee67"
+        },
+        "rptPersonal.bas": {
+          "ExportDate": "07.01.2022 19:38:54",
+          "SourceModified": "07.01.2022 19:38:54",
+          "FilePropertiesHash": "d54e181"
+        },
+        "rptVeranstaltungen.bas": {
+          "ExportDate": "07.01.2022 19:38:54",
+          "SourceModified": "07.01.2022 19:38:54",
+          "FilePropertiesHash": "90ea685"
+        }
+      },
+      "Tables": {
+        "tblBewohner.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "a6d6e3e"
+        },
+        "tblBewohnerVeranstaltung.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "ccede1f"
+        },
+        "tblOrt.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "f24ef8e"
+        },
+        "tblPersonal.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "94c6916"
+        },
+        "tblPersonalVeranstaltung.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "42da008"
+        },
+        "tblTagesplan.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "d93472e"
+        },
+        "tblVeranstaltung.xml": {
+          "ExportDate": "07.01.2022 19:38:44",
+          "SourceModified": "07.01.2022 19:38:44",
+          "FilePropertiesHash": "91e1e88"
+        },
+        "tblVeranstaltungTagesplan.xml": {
+          "ExportDate": "07.01.2022 19:38:45",
+          "SourceModified": "07.01.2022 19:38:45",
+          "FilePropertiesHash": "268a538"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "b727a99",
+          "ExportDate": "07.01.2022 19:40:03",
+          "SourceModified": "07.01.2022 19:38:43",
+          "FilePropertiesHash": "1125438"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "05fc1ca",
+          "ExportDate": "07.01.2022 19:40:03",
+          "SourceModified": "07.01.2022 19:38:43",
+          "FilePropertiesHash": "ef2bf45"
+        }
+      }
+    }
+  }
+}

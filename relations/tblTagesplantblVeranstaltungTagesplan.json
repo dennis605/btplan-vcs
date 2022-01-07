@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tblTagesplantblVeranstaltungTagesplan",
+    "Attributes": 4352,
+    "Table": "tblTagesplan",
+    "ForeignTable": "tblVeranstaltungTagesplan",
+    "Fields": [
+      {
+        "Name": "idTagesplan",
+        "ForeignName": "frkTagesplan"
+      }
+    ]
+  }
+}

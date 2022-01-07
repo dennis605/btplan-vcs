@@ -1,0 +1,2 @@
+﻿SELECT tblBewohnerVeranstaltung.idBewohnerVeranstaltung, tblBewohnerVeranstaltung.frkVeranstaltung, tblBewohnerVeranstaltung.frkBewohner, tblBewohner.idBewohner, tblBewohner.calcBewohnerName
+FROM tblBewohner INNER JOIN tblBewohnerVeranstaltung ON tblBewohner.idBewohner = tblBewohnerVeranstaltung.frkBewohner;

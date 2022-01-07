@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tblPersonaltblPersonalVeranstaltung",
+    "Attributes": 4352,
+    "Table": "tblPersonal",
+    "ForeignTable": "tblPersonalVeranstaltung",
+    "Fields": [
+      {
+        "Name": "idPersonal",
+        "ForeignName": "frkPersonal"
+      }
+    ]
+  }
+}

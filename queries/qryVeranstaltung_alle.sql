@@ -1,0 +1,2 @@
+﻿SELECT tblVeranstaltung.idVeranstaltung, tblVeranstaltung.txtVeranstaltungName, tblVeranstaltung.dateVeranstaltungAnfang, tblVeranstaltung.dateVeranstaltungEnde, tblVeranstaltung.txtVeranstaltungOrt
+FROM tblVeranstaltung;

@@ -1,0 +1,2 @@
+﻿SELECT tblTagesplan.txtTagesplanName, tblTagesplan.idTagesplan, tblVeranstaltung.idVeranstaltung, tblVeranstaltung.txtVeranstaltungName, tblTagesplan.txtTagesplanName
+FROM tblVeranstaltung INNER JOIN (tblTagesplan INNER JOIN tblVeranstaltungTagesplan ON tblTagesplan.idTagesplan = tblVeranstaltungTagesplan.frkTagesplan) ON tblVeranstaltung.idVeranstaltung = tblVeranstaltungTagesplan.frkVeranstaltung;
